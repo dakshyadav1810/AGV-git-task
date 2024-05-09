@@ -1,1 +1,1 @@
-print("Task 3 FTW")
+print("this is actually kinda fun ngl")
