@@ -14,38 +14,7 @@ This file is written in the [Markdown format](https://guides.github.com/features
 
 ## Note
 
-While it is tempting to use certain vs code extensions / github desktop, nothing offers the same amount of flexibility as github through the terminal. Needless to say, do all these tasks using your terminal.
-
-## Task 1
-
-Add your name to this list below 'Entries'.
-
-- **Fork the repo, create a new branch (called Task1), make changes and send a pull request**
-  - [This article](https://help.github.com/articles/using-pull-requests/) should give you a good idea of what pull requests are how to use them.
-
-Your entry should maintain alphabetic order and it should be in the format:
-   * ` your name [username](http://github.com/username)`.  
-
-
-- Your Pull Request must have only one commit (if there are multiple commits, you should squash them). 
-- Only one file should be there in the diff of your Pull Request.
-
-### Entries
-ENTER NAMES HERE \
-1)SOHAM DAS [Will2Jacks](http://github.com/Will2Jacks) \
-2)Damiya Gondha [Dami-18](http://github.com/Dami-18) \
-3)Anjali Deepu [Anj888](https://github.com/Anj888) \
-4)Aryan Raina [Aryan-Raina](https://github.com/Aryan-Raina) \
-5)Theyanesh [theyanesher](https://github.com/theyanesher) \
-6)Rishi Vishwakarma [rishift](https://github.com/rishift) \
-7)Shrey Patel [SPatel1709](https://github.com/SPatel1709) \
-8)Palak Agarwal [palak180](https://github.com/palak180) \
-9)Aditya Srivastava [a-d-i-t-y-a31](https://github.com/a-d-i-t-y-a31) \
-10)Mehul Mathur [mehulmathur05](https://github.com/mehulmathur05) \
-11)Sandip Das [real-Sandip-Das](https://github.com/real-Sandip-Das) \
-12)John Felix [johnfelix2911](https://github.com/johnfelix2911) \
-13)Ishan Phanse [ishanph2005](https://github.com/ishanph2005) \
-14)Utsav Agarwal [Utsavag1](https://github.com/Utsavag1) \
+While it is tempting to 
 15)Rimi Patel [rimi-29](https://github.com/rimi-29) \
 16)Ninaad Desai [ninzzd](https://github.com/ninzzd) \
 17)Daksh Yadav [dakshyadav1810](https://github.com/dakshyadav1810)
